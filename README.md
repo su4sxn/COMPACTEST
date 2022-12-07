@@ -1,0 +1,3 @@
+# COMPACTEST
+qsd
+OKAY
